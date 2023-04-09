@@ -1,4 +1,6 @@
-# A video search engine using Rapid API
+# Modern YouTube Clone Application in React JS with Material UI 5
+
+
 
 
 ### `npm start`
