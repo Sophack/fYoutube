@@ -1,6 +1,5 @@
 # Modern YouTube Clone Application in React JS with Material UI 5
 
-<img width="940" alt="image" src="https://user-images.githubusercontent.com/114966651/234123411-47a44440-a0cb-4225-8163-263830d3bae7.png">
 
 
 
